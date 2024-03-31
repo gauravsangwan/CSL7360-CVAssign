@@ -1,5 +1,11 @@
 # Assignment 1: Computer Vision(CSL7360)
 
+## Result Replication
+
+- Run the following command and create a virtual environment
+  ``` pip install -r requirements.txt```
+- Run the notebook corresponding to the task, to see the results.
+
 
 ## Harris Corner Detection
 I successfully implemented the Harris Corner detection algorithm from scratch in Python with the use of numpy and scipy library. 
